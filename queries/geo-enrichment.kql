@@ -1,0 +1,5 @@
+let GeoIPDB_FULL = _GetWatchlist("geoip");
+SecurityEvent
+| where EventID == 4625
+| order by TimeGenerated desc
+| evaluate ipv4_lookup(GeoIPDB_FULL, IpAddress, network)
