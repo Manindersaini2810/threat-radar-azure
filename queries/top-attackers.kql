@@ -1,0 +1,4 @@
+SecurityEvent
+| where EventID == 4625
+| summarize Attempts = count() by IpAddress
+| top 10 by Attempts desc
