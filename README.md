@@ -143,7 +143,7 @@ Imported `geoip-summarized.csv` as a Sentinel watchlist (alias `geoip`, search k
 
 Created a Sentinel Workbook with a map visualization. Bubble size and color show the number of failed logons per location.
 
-![Attack map](screenshots/Threat-Attack-Map.png)
+![Attack map](screenshots/Attack-Map.png)
 
 ## KQL Queries
 
