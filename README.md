@@ -265,10 +265,6 @@ threat-radar-azure/
 
 This project was performed in a controlled, disposable environment for educational purposes. The honeypot was intentionally misconfigured and should never be replicated on production or personal systems. Subscription IDs, public IP addresses and attacker IP addresses have been removed from screenshots.
 
-## Acknowledgments
 
-- Lab concept and resources adapted from the Josh Madakor Azure honeypot lab
-- GeoIP dataset from the [lognpacific-public](https://github.com/joshmadakor1/lognpacific-public) repository
-- Microsoft Learn documentation for Sentinel and KQL
 
 ---
