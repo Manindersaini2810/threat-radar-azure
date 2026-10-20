@@ -272,5 +272,3 @@ This project was performed in a controlled, disposable environment for education
 - Microsoft Learn documentation for Sentinel and KQL
 
 ---
-
-**Author:** Your Name | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/anindersaini2810)
